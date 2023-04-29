@@ -1,0 +1,54 @@
+body
+{
+    background-color: #1C315E;
+    margin:0px;
+    padding:0px;
+    height:100%;
+}
+h2
+{
+  text-decoration: none;
+  font: "Helvetica Neue";
+}
+a
+{
+  text-decoration: none;
+  font: "Helvetica Neue";
+  padding:10px;
+
+}
+.unit
+{
+    margin:0px;
+    padding:0px;
+    width:auto;  
+}
+
+.card {
+  
+  margin-right: 1%;
+  margin-left: 1%;
+  
+}
+
+#header
+{
+  padding: 3vh;
+  background-color:#F9F7F7;
+}
+#navv
+{
+  background-color:#BDCDD6;
+    float:left;
+    width:15%;
+    height:100%;
+
+}
+#main
+{ 
+    float:right;
+    width:85%;
+}
+
+
+

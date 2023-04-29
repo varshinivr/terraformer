@@ -1,0 +1,30 @@
+body
+{
+    background-color: #1C315E;
+    margin:0px;
+    padding:0px;
+}
+#header
+{
+  padding: 3vh;
+  background-color:#F9F7F7;
+}
+
+h3
+{
+  color: #040303;
+}
+
+#navv
+{  background-color:#BDCDD6;
+    float:left;
+    width:15%;
+    height: 100vh;
+
+}
+
+#main
+{ 
+    float:right;
+    width:85%;
+}
